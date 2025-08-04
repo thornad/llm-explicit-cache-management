@@ -592,7 +592,7 @@ def test_graceful_degradation():
 1. **Read the specification**: [Core Specification](../spec/core-specification.md)
 2. **Explore examples**: [Use Cases](../spec/use-cases.md)  
 3. **Check implementations**: [Reference Implementations](../implementations/)
-4. **Join the community**: [GitHub Discussions](https://github.com/your-repo/discussions)
+4. **Join the community**: [GitHub Discussions](https://github.com/thornad/llm-explicit-cache-management/discussions)
 5. **Contribute**: Help improve the specification and implementations
 
 ## Need Help?

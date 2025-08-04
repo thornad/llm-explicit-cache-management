@@ -385,7 +385,7 @@ Detailed performance comparisons available in [benchmarks/](../benchmarks/) dire
 **Next Steps**: 
 - Review [Use Cases](use-cases.md) for practical examples
 - Check [Implementation Guide](../docs/implementation-guide.md) for integration details
-- See [Getting Started](../docs/getting-started.md) for quick implementation
+- See [Getting Started](getting-started.md) for quick implementation
 
 **Version History:**
 - v1.0.0-draft: Initial specification (August 2025)
