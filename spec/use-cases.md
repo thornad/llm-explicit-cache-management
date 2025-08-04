@@ -186,7 +186,7 @@ As the specification evolves, we anticipate new use cases:
 
 ---
 
-**Next**: See [Getting Started Guide](../docs/getting-started.md) for implementation instructions.
+**Next**: See [Getting Started Guide](getting-started.md) for implementation instructions.
 
 **Related**: [Core Specification](core-specification.md) | [Syntax Reference](syntax-reference.md) Impact
 

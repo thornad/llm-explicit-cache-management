@@ -433,4 +433,4 @@ When cache functionality is not available:
 **Related Documentation:**
 - [Core Specification](core-specification.md) - Complete technical specification
 - [Use Cases](use-cases.md) - Practical examples and patterns
-- [Getting Started](../docs/getting-started.md) - Implementation guide
+- [Getting Started](getting-started.md) - Implementation guide
