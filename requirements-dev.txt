@@ -1,0 +1,14 @@
+# Development dependencies
+pytest>=7.0.0
+flake8>=5.0.0
+black>=22.0.0
+isort>=5.10.0
+pre-commit>=2.20.0
+coverage>=6.0.0
+
+# Documentation
+mkdocs>=1.4.0
+mkdocs-material>=8.0.0
+
+# Optional: Jupyter for notebooks
+jupyter>=1.0.0
