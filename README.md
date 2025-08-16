@@ -134,6 +134,3 @@ This project was inspired by the challenges faced by developers building documen
 *"Explicit is better than implicit" - The Zen of Python*
 
 *This project addresses the lack of explicit cache management in current LLM inference systems, providing developers with fine-grained control over context caching for improved performance and cost efficiency.*
-## Test Change
-This line tests branch protection.
-# Test
